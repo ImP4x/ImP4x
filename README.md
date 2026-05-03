@@ -1,16 +1,50 @@
-## Hi there 👋
+<!--Bienvenida-->
+<div align="center">
 
-<!--
-**ImP4x/ImP4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=650&duration=3000&pause=700&lines=%3E+Welcome+to+my+GitHub+profile...!;%3E+I%27m+ImP4x%2C+Software+Developer;%3E+If+you+can+imagine+it%2C+you+can+program+it)
+</div>
 
-Here are some ideas to get you started:
+  ## 🛠️💻 Languages and Tools
+-------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--iconos-->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=dart" title="Dart" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" />&nbsp;&nbsp;&nbsp;
+  <br><br>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />&nbsp;&nbsp;&nbsp;
+  <br><br>
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=windows" title="Windows" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=kali" title="Kali" />&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=railway"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox"/>&nbsp;&nbsp;&nbsp;
+</p>
+
+------
+<!--Contribuciones-->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<!--Footer GIF-->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
