@@ -23,17 +23,17 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" title="Flutter" />&nbsp;&nbsp;&nbsp;
   <br><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" title="Visual Studio Code" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;&nbsp;&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" title="Windows" />&nbsp;&nbsp;&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" title="Kali" />&nbsp;&nbsp;&nbsp;
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=railway"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n"title="n8n" />&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" title="Railway" />&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" title="Ollama" />&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation" title="VMware Workstation" />&nbsp;&nbsp;&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" title="VirtualBox" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ------
